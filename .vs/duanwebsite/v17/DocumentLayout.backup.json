@@ -1,0 +1,1488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\duanwebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\dungtmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\dungtmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:duanwebsite.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:duanwebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\banbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\banbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\wwwroot\\testimonial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:wwwroot\\testimonial.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:wwwroot\\lib\\owlcarousel\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Create.cshtml",
+              "RelativeToolTip": "Views\\AdminHoaDon\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:41:22.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Details.cshtml",
+              "RelativeToolTip": "Views\\AdminHoaDon\\Details.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:41:00.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AdminHoaDon\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:40:59.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AdminHoaDon\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwGMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:40:46.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminHoaDon\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:40:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Create.cshtml",
+              "RelativeToolTip": "Views\\AdminHangHoa\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwEoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:39:19.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AdminHangHoa\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:39:13.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Details.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Details.cshtml",
+              "RelativeToolTip": "Views\\AdminHangHoa\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:38:03.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AdminHangHoa\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:37:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdminHangHoa\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvy4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T16:37:14.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminHoaDonController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHoaDonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminHoaDonController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHoaDonController.cs",
+              "RelativeToolTip": "Controllers\\AdminHoaDonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:28:59.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminHangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminHangHoaController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHangHoaController.cs",
+              "RelativeToolTip": "Controllers\\AdminHangHoaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:27:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Data\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\KhachHang.cs",
+              "RelativeToolTip": "Data\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:32:55.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:26:29.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:26:24.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:16:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:11:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:08:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "wwwroot\\css\\admin.css",
+              "ViewState": "AgIAACwyAAAAAAAAAAAIwEMyAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T15:06:42.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:05:46.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:59:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:59:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:42:02.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "chackout.html",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "wwwroot\\chackout.html",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\chackout.html",
+              "RelativeToolTip": "wwwroot\\chackout.html",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-13T14:06:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:34:49.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T13:21:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "duanwebsite",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
+              "RelativeDocumentMoniker": "duanwebsite.csproj",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
+              "RelativeToolTip": "duanwebsite.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T13:21:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Data\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\HoaDon.cs",
+              "RelativeToolTip": "Data\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:16:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "Services\\VnPayService.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\VnPayService.cs",
+              "RelativeToolTip": "Services\\VnPayService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:14:11.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "Services\\IVnPayService.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\IVnPayService.cs",
+              "RelativeToolTip": "Services\\IVnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:13:56.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:08:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:08:53.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA0wHgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:08:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:06:38.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "Helpers\\VnPayLibrary.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\VnPayLibrary.cs",
+              "RelativeToolTip": "Helpers\\VnPayLibrary.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAMwGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:06:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:06:08.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PaypalClient.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\PaypalClient.cs",
+              "RelativeDocumentMoniker": "Helpers\\PaypalClient.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\PaypalClient.cs",
+              "RelativeToolTip": "Helpers\\PaypalClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:05:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:05:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:04:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "Helpers\\MySetting.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "Helpers\\MySetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:04:02.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "Helpers\\MyUtil.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MyUtil.cs",
+              "RelativeToolTip": "Helpers\\MyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:04:01.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:03:11.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Success.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:00:36.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\PaymentFail.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeToolTip": "Views\\Cart\\PaymentFail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:00:33.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:00:28.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:00:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:59:59.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ChiTietHd.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\ChiTietHd.cs",
+              "RelativeDocumentMoniker": "Data\\ChiTietHd.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\ChiTietHd.cs",
+              "RelativeToolTip": "Data\\ChiTietHd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:53:34.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BanBe.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\BanBe.cs",
+              "RelativeDocumentMoniker": "Data\\BanBe.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\BanBe.cs",
+              "RelativeToolTip": "Data\\BanBe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:53:30.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "testimonial.html",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\testimonial.html",
+              "RelativeDocumentMoniker": "wwwroot\\testimonial.html",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\testimonial.html",
+              "RelativeToolTip": "wwwroot\\testimonial.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-13T12:53:12.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "owl.carousel.min.js",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACzKQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T12:52:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:51:21.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:51:14.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:51:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:51:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_Copyright.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Copyright.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Copyright.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:44.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:37.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Details.cshtml",
+              "RelativeToolTip": "Views\\HangHoas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:15.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:50:03.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:49:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:49:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VnPaymentResponseModel.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "ViewModels\\VnPaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:49:11.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:49:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:49:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:48:47.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HangHoaVM.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:48:39.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CheckoutVM.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "ViewModels\\CheckoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:48:34.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "ViewModels\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:48:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:47:48.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "duanwebsite.csproj",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
+              "RelativeDocumentMoniker": "duanwebsite.csproj",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
+              "RelativeToolTip": "duanwebsite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T12:47:42.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:47:09.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:49.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:45.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:37.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:18.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\HangHoas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:46:15.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:45:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:44:27.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:44:15.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:35:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:27:15.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DungtmShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\DungtmShopContext.cs",
+              "RelativeDocumentMoniker": "Data\\DungtmShopContext.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\DungtmShopContext.cs",
+              "RelativeToolTip": "Data\\DungtmShopContext.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAnwLsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:24:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T12:17:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:30:37.304Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
