@@ -19,7 +19,7 @@ namespace duanwebsite.Controllers
         }
 
         // GET: AdminHoaDon
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page = 1, int pageSize = 20)
         {
             var dungtmShopContext = _context.HoaDons
                 .Include(h => h.MaKhNavigation)
@@ -27,7 +27,20 @@ namespace duanwebsite.Controllers
                 .Include(h => h.MaTrangThaiNavigation)
                 .OrderByDescending(h => h.NgayDat); // Sắp xếp theo ngày tạo mới nhất
 
-            return View(await dungtmShopContext.ToListAsync());
+            int totalItems = await dungtmShopContext.CountAsync(); // Tổng số đơn hàng
+            int totalPages = (int)Math.Ceiling((double)totalItems / pageSize); // Tính tổng số trang
+
+            // Áp dụng phân trang
+            var result = await dungtmShopContext
+                .Skip((page - 1) * pageSize) // Bỏ qua các trang trước
+                .Take(pageSize) // Lấy số lượng đơn hàng trên trang hiện tại
+                .ToListAsync();
+
+            // Truyền thông tin về phân trang cho ViewBag
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(result);
         }
 
 

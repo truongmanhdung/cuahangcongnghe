@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\duanwebsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\loailistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\loailistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\components\\loailist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\components\\loailist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminloai\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminloai\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +99,8 @@
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\dungtmshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +111,12 @@
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhoadon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\adminloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\adminloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -115,36 +171,8 @@
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\adminhanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\components\\loailist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\components\\loailist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -153,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\loailistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\loailistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,24 +195,12 @@
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\loailistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -229,14 +241,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0E246BC-1C34-46DD-8FEF-452C02EB2666}|duanwebsite.csproj|c:\\users\\truon\\source\\repos\\duanwebsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -414,15 +418,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 35,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\PaginatedList.cs",
+              "RelativeToolTip": "ViewComponents\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:14:21.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "HangHoaVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\HangHoaVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\HangHoaVM.cs",
@@ -430,12 +451,11 @@
               "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:28:17.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T08:28:17.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminLoai\\Delete.cshtml",
@@ -443,12 +463,11 @@
               "RelativeToolTip": "Views\\AdminLoai\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T03:44:14.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T03:44:14.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminLoai\\Create.cshtml",
@@ -456,12 +475,11 @@
               "RelativeToolTip": "Views\\AdminLoai\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T03:44:18.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T03:44:18.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminLoai\\Details.cshtml",
@@ -469,12 +487,11 @@
               "RelativeToolTip": "Views\\AdminLoai\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T03:44:16.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T03:44:16.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminLoai\\Edit.cshtml",
@@ -482,38 +499,37 @@
               "RelativeToolTip": "Views\\AdminLoai\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T03:40:55.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T03:40:55.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminLoai\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminLoai\\Index.cshtml",
               "RelativeToolTip": "Views\\AdminLoai\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-14T03:37:57.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "AdminLoaiController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminLoaiController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminLoaiController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminLoaiController.cs",
               "RelativeToolTip": "Controllers\\AdminLoaiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA8wCMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T03:37:12.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "LoaiListVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\LoaiListVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoaiListVM.cs",
@@ -521,12 +537,11 @@
               "RelativeToolTip": "ViewModels\\LoaiListVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:53:47.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T02:53:47.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 17,
               "Title": "LoaiListViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\LoaiListViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\LoaiListViewComponent.cs",
@@ -539,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "MenuLoaiVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\MenuLoaiVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\MenuLoaiVM.cs",
@@ -547,25 +562,24 @@
               "RelativeToolTip": "ViewModels\\MenuLoaiVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:45:46.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T02:45:46.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 20,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\LoaiList\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\LoaiList\\Default.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\LoaiList\\Default.cshtml",
               "RelativeToolTip": "Views\\Shared\\Components\\LoaiList\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-14T02:40:31.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
@@ -573,12 +587,11 @@
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAPQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-14T01:07:50.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T01:07:50.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Create.cshtml",
@@ -590,20 +603,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Details.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Details.cshtml",
               "RelativeToolTip": "Views\\AdminHoaDon\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwHMAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T16:41:00.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Delete.cshtml",
@@ -616,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Edit.cshtml",
@@ -624,25 +637,24 @@
               "RelativeToolTip": "Views\\AdminHoaDon\\Edit.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T16:40:46.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:40:46.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHoaDon\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHoaDon\\Index.cshtml",
               "RelativeToolTip": "Views\\AdminHoaDon\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T16:40:30.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Create.cshtml",
@@ -650,12 +662,11 @@
               "RelativeToolTip": "Views\\AdminHangHoa\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T16:39:19.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:39:19.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 39,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Delete.cshtml",
@@ -663,12 +674,11 @@
               "RelativeToolTip": "Views\\AdminHangHoa\\Delete.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T16:39:13.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:39:13.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Details.cshtml",
@@ -676,12 +686,11 @@
               "RelativeToolTip": "Views\\AdminHangHoa\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T16:38:03.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:38:03.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Edit.cshtml",
@@ -689,63 +698,63 @@
               "RelativeToolTip": "Views\\AdminHangHoa\\Edit.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAUwEQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T16:37:40.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:37:40.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\AdminHangHoa\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\AdminHangHoa\\Index.cshtml",
               "RelativeToolTip": "Views\\AdminHangHoa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwFEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T16:37:14.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AdminHoaDonController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHoaDonController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminHoaDonController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHoaDonController.cs",
               "RelativeToolTip": "Controllers\\AdminHoaDonController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDoAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T16:28:59.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AdminHangHoaController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHangHoaController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminHangHoaController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminHangHoaController.cs",
               "RelativeToolTip": "Controllers\\AdminHangHoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T16:27:59.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 11,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\KhachHang.cs",
               "RelativeDocumentMoniker": "Data\\KhachHang.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\KhachHang.cs",
               "RelativeToolTip": "Data\\KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:32:55.235Z"
+              "WhenOpened": "2024-10-13T15:32:55.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
@@ -753,12 +762,11 @@
               "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAFQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:26:29.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:26:29.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
@@ -766,25 +774,24 @@
               "RelativeToolTip": "Views\\Admin\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:26:24.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:26:24.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Edit.cshtml",
               "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwFQAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFQAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T15:16:16.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\LeftMenu.cshtml",
@@ -792,12 +799,11 @@
               "RelativeToolTip": "Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:11:26.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:11:26.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
@@ -805,12 +811,11 @@
               "RelativeToolTip": "Views\\Shared\\TopNav.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:08:15.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:08:15.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "admin.css",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\css\\admin.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\admin.css",
@@ -822,33 +827,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 10,
               "Title": "MyLayoutHelper.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\MyLayoutHelper.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\MyLayoutHelper.cshtml",
               "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T15:05:46.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T14:59:42.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Admin\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
@@ -860,20 +865,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowC4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:42:02.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "chackout.html",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\chackout.html",
               "RelativeDocumentMoniker": "wwwroot\\chackout.html",
@@ -885,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
@@ -897,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -909,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "duanwebsite",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
               "RelativeDocumentMoniker": "duanwebsite.csproj",
@@ -920,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\HoaDon.cs",
               "RelativeDocumentMoniker": "Data\\HoaDon.cs",
@@ -928,12 +933,11 @@
               "RelativeToolTip": "Data\\HoaDon.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvycAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:16:19.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:16:19.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "VnPayService.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\VnPayService.cs",
               "RelativeDocumentMoniker": "Services\\VnPayService.cs",
@@ -945,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "IVnPayService.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Services\\IVnPayService.cs",
               "RelativeDocumentMoniker": "Services\\IVnPayService.cs",
@@ -957,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "KhachHangController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\KhachHangController.cs",
               "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
@@ -965,25 +969,24 @@
               "RelativeToolTip": "Controllers\\KhachHangController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAwwGkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:08:54.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:08:54.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 19,
               "Title": "HangHoaController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoaController.cs",
               "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoaController.cs",
               "RelativeToolTip": "Controllers\\HangHoaController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T13:08:53.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
@@ -991,12 +994,11 @@
               "RelativeToolTip": "Controllers\\CartController.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAmwHcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:08:11.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:08:11.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "MenuLoaiViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\MenuLoaiViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
@@ -1004,12 +1006,11 @@
               "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:06:38.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:06:38.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "VnPayLibrary.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\VnPayLibrary.cs",
               "RelativeDocumentMoniker": "Helpers\\VnPayLibrary.cs",
@@ -1021,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "SessionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Helpers\\SessionExtensions.cs",
@@ -1033,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "PaypalClient.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\PaypalClient.cs",
               "RelativeDocumentMoniker": "Helpers\\PaypalClient.cs",
@@ -1045,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "DataEncryptionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\DataEncryptionExtensions.cs",
               "RelativeDocumentMoniker": "Helpers\\DataEncryptionExtensions.cs",
@@ -1057,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
@@ -1069,7 +1070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "MySetting.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MySetting.cs",
               "RelativeDocumentMoniker": "Helpers\\MySetting.cs",
@@ -1077,12 +1078,11 @@
               "RelativeToolTip": "Helpers\\MySetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:04:02.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:04:02.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "MyUtil.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Helpers\\MyUtil.cs",
               "RelativeDocumentMoniker": "Helpers\\MyUtil.cs",
@@ -1094,20 +1094,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 18,
               "Title": "CartViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\CartViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewComponents\\CartViewComponent.cs",
               "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T13:03:11.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "Success.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Success.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Success.cshtml",
@@ -1119,7 +1119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "PaymentFail.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\PaymentFail.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\PaymentFail.cshtml",
@@ -1131,7 +1131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
@@ -1143,7 +1143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Cart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
@@ -1151,12 +1151,11 @@
               "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAwCQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T13:00:19.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:00:19.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1168,7 +1167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "ChiTietHd.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\ChiTietHd.cs",
               "RelativeDocumentMoniker": "Data\\ChiTietHd.cs",
@@ -1180,7 +1179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "BanBe.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\BanBe.cs",
               "RelativeDocumentMoniker": "Data\\BanBe.cs",
@@ -1192,7 +1191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "testimonial.html",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\testimonial.html",
               "RelativeDocumentMoniker": "wwwroot\\testimonial.html",
@@ -1204,7 +1203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "owl.carousel.min.js",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
               "RelativeDocumentMoniker": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
@@ -1216,7 +1215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
@@ -1224,12 +1223,11 @@
               "RelativeToolTip": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:51:21.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:51:21.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "CartPanel.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
@@ -1241,7 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -1253,7 +1251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "_TimKiemPanel.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_TimKiemPanel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_TimKiemPanel.cshtml",
@@ -1265,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "_DanhSachHangHoa.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
@@ -1273,12 +1271,11 @@
               "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:50:46.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:50:46.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "_Copyright.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Copyright.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Copyright.cshtml",
@@ -1290,7 +1287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\Profile.cshtml",
               "RelativeDocumentMoniker": "Views\\KhachHang\\Profile.cshtml",
@@ -1302,7 +1299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "DangNhap.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangNhap.cshtml",
               "RelativeDocumentMoniker": "Views\\KhachHang\\DangNhap.cshtml",
@@ -1314,7 +1311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "DangKy.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\KhachHang\\DangKy.cshtml",
               "RelativeDocumentMoniker": "Views\\KhachHang\\DangKy.cshtml",
@@ -1326,7 +1323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Details.cshtml",
@@ -1338,7 +1335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Search.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
@@ -1346,12 +1343,11 @@
               "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:50:03.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:50:03.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "ProductItem.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\ProductItem.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\ProductItem.cshtml",
@@ -1359,25 +1355,24 @@
               "RelativeToolTip": "Views\\HangHoa\\ProductItem.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:49:55.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:49:55.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Index.cshtml",
               "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T12:49:47.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "VnPaymentResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\VnPaymentResponseModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\VnPaymentResponseModel.cs",
@@ -1389,7 +1384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
@@ -1401,7 +1396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
@@ -1409,12 +1404,11 @@
               "RelativeToolTip": "ViewModels\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:48:47.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:48:47.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "CheckoutVM.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CheckoutVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\CheckoutVM.cs",
@@ -1422,12 +1416,11 @@
               "RelativeToolTip": "ViewModels\\CheckoutVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:48:34.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:48:34.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "CartModel.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\CartModel.cs",
@@ -1439,7 +1432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\ViewModels\\CartItem.cs",
               "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
@@ -1451,7 +1444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "duanwebsite.csproj",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\duanwebsite.csproj",
               "RelativeDocumentMoniker": "duanwebsite.csproj",
@@ -1463,7 +1456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -1475,20 +1468,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-13T12:46:49.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "PageNotFound.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\PageNotFound.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\PageNotFound.cshtml",
@@ -1496,12 +1489,11 @@
               "RelativeToolTip": "Views\\Home\\PageNotFound.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:46:44.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:46:44.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -1509,12 +1501,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:46:45.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:46:45.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -1526,7 +1517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -1538,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Index.cshtml",
@@ -1550,7 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Edit.cshtml",
@@ -1562,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Delete.cshtml",
@@ -1574,7 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoas\\Create.cshtml",
@@ -1586,7 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\HangHoa\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
@@ -1598,19 +1589,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 9,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T12:44:27.055Z"
+              "WhenOpened": "2024-10-13T12:44:27.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -1622,7 +1614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "HangHoasController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HangHoasController.cs",
               "RelativeDocumentMoniker": "Controllers\\HangHoasController.cs",
@@ -1630,12 +1622,11 @@
               "RelativeToolTip": "Controllers\\HangHoasController.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:35:47.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:35:47.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -1647,7 +1638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "DungtmShopContext.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Data\\DungtmShopContext.cs",
               "RelativeDocumentMoniker": "Data\\DungtmShopContext.cs",
@@ -1655,12 +1646,11 @@
               "RelativeToolTip": "Data\\DungtmShopContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:24:57.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:24:57.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -1672,13 +1662,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\duanwebsite\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T11:30:37.304Z",
               "EditorCaption": ""

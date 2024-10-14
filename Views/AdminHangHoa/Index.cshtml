@@ -61,3 +61,22 @@
         }
     </tbody>
 </table>
+<div class="col-12">
+    <div class="pagination d-flex justify-content-center mt-5">
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })" class="rounded @(ViewBag.CurrentPage == 1 ? "disabled" : "")">&laquo;</a>
+
+        @for (int i = 1; i <= (int)ViewBag.TotalPages; i++)
+        {
+            if (i == 1 || i == (int)ViewBag.TotalPages || (i >= ViewBag.CurrentPage - 2 && i <= ViewBag.CurrentPage + 2))
+            {
+                <a href="@Url.Action("Index", new { page = i })" class="rounded @(ViewBag.CurrentPage == i ? "active" : "")">@i</a>
+            }
+            else if (i == 2 || i == (int)ViewBag.TotalPages - 1)
+            {
+                <span>...</span> <!-- Hiển thị dấu ba chấm -->
+            }
+        }
+
+        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })" class="rounded @(ViewBag.CurrentPage == (int)ViewBag.TotalPages ? "disabled" : "")">&raquo;</a>
+    </div>
+</div>

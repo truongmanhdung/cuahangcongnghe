@@ -19,12 +19,28 @@ namespace duanwebsite.Controllers
         }
 
         // GET: AdminHangHoa
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page = 1, int pageSize = 20)
         {
-            var dungtmShopContext = _context.HangHoas.Include(h => h.MaLoaiNavigation).Include(h => h.MaNccNavigation).OrderByDescending(h => h.NgaySx);
-            return View(await dungtmShopContext.ToListAsync());
-        }
+            var hangHoas = _context.HangHoas
+                .Include(h => h.MaLoaiNavigation)
+                .Include(h => h.MaNccNavigation)
+                .OrderByDescending(h => h.NgaySx);
 
+            int totalItems = await hangHoas.CountAsync(); // Tổng số lượng hàng hóa
+            int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+
+            // Áp dụng phân trang
+            var result = await hangHoas
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            // Truyền các thông tin cần thiết vào ViewBag
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(result);
+        }
         // GET: AdminHangHoa/Details/5
         public async Task<IActionResult> Details(int? id)
         {

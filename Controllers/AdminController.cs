@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using duanwebsite.Data;
 using Microsoft.AspNetCore.Authorization;
+using duanwebsite.ViewModels;
+using System.Drawing.Printing;
 
 namespace duanwebsite.Controllers
 {
@@ -25,9 +27,33 @@ namespace duanwebsite.Controllers
         {
             return View();
         }
-        public async Task<IActionResult> Index()
+        public Task<IActionResult> Index(int page = 1, int pageSize = 20)
         {
-            return View(await _context.KhachHangs.ToListAsync());
+            var hangHoas = _context.KhachHangs.AsQueryable();
+            int totalItems = hangHoas.Count(); // Total number of items
+            int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+
+            // Apply pagination
+            var result = hangHoas
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .Select(p => new KhachHang
+                {
+                    MaKh = p.MaKh, // Giả sử MaKh là mã khách hàng
+                    HoTen = p.HoTen, // Họ tên
+                    NgaySinh = p.NgaySinh, // Ngày sinh
+                    DiaChi = p.DiaChi, // Địa chỉ
+                    DienThoai = p.DienThoai, // Điện thoại
+                    Email = p.Email, // Email
+                    Hinh = p.Hinh ?? "", // Hình ảnh
+                    HieuLuc = p.HieuLuc, // Hiệu lực
+                    VaiTro = p.VaiTro // Vai trò
+                }).ToList();
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return Task.FromResult<IActionResult>(View(result));
         }
 
         // GET: Admin/Details/5

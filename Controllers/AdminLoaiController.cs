@@ -19,9 +19,25 @@ namespace duanwebsite.Controllers
         }
 
         // GET: AdminLoai
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page = 1, int pageSize = 20)
         {
-            return View(await _context.Loais.ToListAsync());
+            var loaiQuery = _context.Loais
+                .OrderBy(l => l.MaLoai); // Sắp xếp theo MaLoai
+
+            int totalItems = await loaiQuery.CountAsync(); // Tổng số loại
+            int totalPages = (int)Math.Ceiling((double)totalItems / pageSize); // Tính tổng số trang
+
+            // Áp dụng phân trang
+            var result = await loaiQuery
+                .Skip((page - 1) * pageSize) // Bỏ qua các trang trước
+                .Take(pageSize) // Lấy số lượng loại trên trang hiện tại
+                .ToListAsync();
+
+            // Truyền thông tin về phân trang cho ViewBag
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(result);
         }
 
         // GET: AdminLoai/Details/5
