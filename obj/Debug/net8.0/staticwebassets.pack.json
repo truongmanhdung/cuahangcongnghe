@@ -1261,6 +1261,10 @@
       "PackagePath": "staticwebassets\\img\\baner-1.png"
     },
     {
+      "Id": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\img\\banner-fruits.jpg",
       "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
     },

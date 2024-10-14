@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n+7Y1qaP9gpX1AbMnwmdI7lEAtn7oIePDE+Ig5ocrok=",
+  "Hash": "X66LZZ/r2oPRPNIhIdfSE3xxy9aFZY9q+MvV2V60wJ0=",
   "Source": "duanwebsite",
   "BasePath": "_content/duanwebsite",
   "Mode": "Default",
@@ -6019,6 +6019,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\baner-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\img\\banner-1.jpg",
+      "SourceId": "duanwebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\",
+      "BasePath": "_content/duanwebsite",
+      "RelativePath": "img/banner-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\banner-1.jpg"
     },
     {
       "Identity": "C:\\Users\\truon\\source\\repos\\duanwebsite\\wwwroot\\img\\banner-fruits.jpg",

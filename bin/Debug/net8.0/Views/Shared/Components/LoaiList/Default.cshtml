@@ -1,0 +1,21 @@
+﻿@model IEnumerable<duanwebsite.ViewModels.LoaiListVM>
+
+<div class="col-lg-8 text-end">
+    <ul class="nav nav-pills d-inline-flex text-center mb-5">
+        <li class="nav-item">
+            <a class="d-flex m-2 py-2 bg-light rounded-pill @(ViewBag.Loai == null ? "active" : "")"
+               asp-controller="Home" asp-action="Index" asp-route-loai="">
+                <span class="text-dark" style="width: 130px;">Tất cả sản phẩm</span>
+            </a>
+        </li>
+        @foreach (var item in Model)
+        {
+            <li class="nav-item">
+                <a class="d-flex m-2 py-2 bg-light rounded-pill @(ViewBag.Loai == item.MaLoai ? "active" : "")"
+                   asp-controller="Home" asp-action="Index" asp-route-loai="@item.MaLoai">
+                    <span class="text-dark" style="width: 130px;">@item.TenLoai</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>

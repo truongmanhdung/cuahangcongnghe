@@ -257,3 +257,5 @@ C:\Users\truon\source\repos\duanwebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0
 C:\Users\truon\source\repos\duanwebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\truon\source\repos\duanwebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\truon\source\repos\duanwebsite\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\truon\source\repos\duanwebsite\obj\Debug\net8.0\duanwebsite.sourcelink.json
+C:\Users\truon\source\repos\duanwebsite\bin\Debug\net8.0\Views\Shared\Components\LoaiList\Default.cshtml

@@ -21,9 +21,15 @@ namespace duanwebsite.Controllers
         // GET: AdminHoaDon
         public async Task<IActionResult> Index()
         {
-            var dungtmShopContext = _context.HoaDons.Include(h => h.MaKhNavigation).Include(h => h.MaNvNavigation).Include(h => h.MaTrangThaiNavigation);
+            var dungtmShopContext = _context.HoaDons
+                .Include(h => h.MaKhNavigation)
+                .Include(h => h.MaNvNavigation)
+                .Include(h => h.MaTrangThaiNavigation)
+                .OrderByDescending(h => h.NgayDat); // Sắp xếp theo ngày tạo mới nhất
+
             return View(await dungtmShopContext.ToListAsync());
         }
+
 
         // GET: AdminHoaDon/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -49,9 +55,9 @@ namespace duanwebsite.Controllers
         // GET: AdminHoaDon/Create
         public IActionResult Create()
         {
-            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh");
-            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "MaNv");
-            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "MaTrangThai");
+            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "HoTen");
+            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "HoTen");
+            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "TenTrangThai");
             return View();
         }
 
@@ -68,9 +74,9 @@ namespace duanwebsite.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "MaNv", hoaDon.MaNv);
-            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "MaTrangThai", hoaDon.MaTrangThai);
+            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "HoTen", hoaDon.MaKh);
+            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "HoTen", hoaDon.MaNv);
+            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "TenTrangThai", hoaDon.MaTrangThai);
             return View(hoaDon);
         }
 
@@ -87,9 +93,9 @@ namespace duanwebsite.Controllers
             {
                 return NotFound();
             }
-            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "MaNv", hoaDon.MaNv);
-            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "MaTrangThai", hoaDon.MaTrangThai);
+            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "HoTen", hoaDon.MaKh);
+            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "HoTen", hoaDon.MaNv);
+            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "TenTrangThai", hoaDon.MaTrangThai);
             return View(hoaDon);
         }
 
@@ -105,30 +111,26 @@ namespace duanwebsite.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+            try
             {
-                try
-                {
-                    _context.Update(hoaDon);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!HoaDonExists(hoaDon.MaHd))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
+                _context.Update(hoaDon);
+                await _context.SaveChangesAsync();
             }
-            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "MaKh", hoaDon.MaKh);
-            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "MaNv", hoaDon.MaNv);
-            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "MaTrangThai", hoaDon.MaTrangThai);
-            return View(hoaDon);
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!HoaDonExists(hoaDon.MaHd))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+            ViewData["MaKh"] = new SelectList(_context.KhachHangs, "MaKh", "HoTen", hoaDon.MaKh);
+            ViewData["MaNv"] = new SelectList(_context.NhanViens, "MaNv", "HoTen", hoaDon.MaNv);
+            ViewData["MaTrangThai"] = new SelectList(_context.TrangThais, "MaTrangThai", "TenTrangThai", hoaDon.MaTrangThai);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: AdminHoaDon/Delete/5

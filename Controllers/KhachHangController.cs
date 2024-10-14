@@ -69,72 +69,77 @@ namespace duanwebsite.Controllers
 		}
 
 		[HttpPost]
-		public async Task<IActionResult> DangNhap(LoginVM model, string? ReturnUrl)
-		{
-			ViewBag.ReturnUrl = ReturnUrl;
-			if (ModelState.IsValid)
-			{
-				var khachHang = db.KhachHangs.SingleOrDefault(kh => kh.MaKh == model.UserName);
-				if (khachHang == null)
-				{
-					ModelState.AddModelError("loi", "Không có khách hàng này");
-				}
-				else
-				{
-					if (!khachHang.HieuLuc)
-					{
-						ModelState.AddModelError("loi", "Tài khoản đã bị khóa. Vui lòng liên hệ Admin.");
-					}
-					else
-					{
-						if (khachHang.MatKhau != model.Password.ToMd5Hash(khachHang.RandomKey))
-						{
-							ModelState.AddModelError("loi", "Sai thông tin đăng nhập");
-						}
-						else
-						{
+        public async Task<IActionResult> DangNhap(LoginVM model, string? ReturnUrl)
+        {
+            ViewBag.ReturnUrl = ReturnUrl;
+            if (ModelState.IsValid)
+            {
+                var khachHang = db.KhachHangs.SingleOrDefault(kh => kh.MaKh == model.UserName);
+                if (khachHang == null)
+                {
+                    ModelState.AddModelError("loi", "Không có khách hàng này");
+                }
+                else
+                {
+                    if (!khachHang.HieuLuc)
+                    {
+                        ModelState.AddModelError("loi", "Tài khoản đã bị khóa. Vui lòng liên hệ Admin.");
+                    }
+                    else
+                    {
+                        if (khachHang.MatKhau != model.Password.ToMd5Hash(khachHang.RandomKey))
+                        {
+                            ModelState.AddModelError("loi", "Sai thông tin đăng nhập");
+                        }
+                        else
+                        {
+                            var claims = new List<Claim> {
+                        new Claim(ClaimTypes.Email, khachHang.Email),
+                        new Claim(ClaimTypes.Name, khachHang.HoTen),
+                        new Claim(MySetting.CLAIM_CUSTOMERID, khachHang.MaKh),
+                    };
 
-							var role = khachHang.VaiTro;
-							if (role == 1)
-							{
-								new Claim(ClaimTypes.Role, "Admin");
-								return Redirect("/Admin");
-						}
-							else
-							{
-								var claims = new List<Claim> {
-								new Claim(ClaimTypes.Email, khachHang.Email),
-								new Claim(ClaimTypes.Name, khachHang.HoTen),
-								new Claim(MySetting.CLAIM_CUSTOMERID, khachHang.MaKh),
+                            // Check role and assign it dynamically
+                            if (khachHang.VaiTro == 1) // Admin role
+                            {
+                                claims.Add(new Claim(ClaimTypes.Role, "Admin"));
+                            }
+                            else // Customer role
+                            {
+                                claims.Add(new Claim(ClaimTypes.Role, "Customer"));
+                            }
 
-								//claim - role động
-								new Claim(ClaimTypes.Role, "Customer")
-							};
+                            var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                            var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
 
-								var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-								var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+                            await HttpContext.SignInAsync(claimsPrincipal);
 
-								await HttpContext.SignInAsync(claimsPrincipal);
+                            // Redirect based on role
+                            if (khachHang.VaiTro == 1) // Redirect to Admin dashboard if Admin
+                            {
+                                return Redirect("/Admin");
+                            }
+                            else // Redirect to homepage or return URL if Customer
+                            {
+                                if (Url.IsLocalUrl(ReturnUrl))
+                                {
+                                    return Redirect(ReturnUrl);
+                                }
+                                else
+                                {
+                                    return Redirect("/");
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            return View();
+        }
 
-								if (Url.IsLocalUrl(ReturnUrl))
-								{
-									return Redirect(ReturnUrl);
-								}
-								else
-								{
-									return Redirect("/");
-								}
-							}
+        #endregion
 
-						}
-					}
-				}
-			}
-			return View();
-		}
-		#endregion
-
-		[Authorize]
+        [Authorize]
 		public IActionResult Profile()
 		{
 			return View();

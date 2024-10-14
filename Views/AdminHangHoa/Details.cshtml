@@ -5,84 +5,61 @@
     Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
 }
 
-<h1>Details</h1>
+<h1>Chi tiết sản phẩm</h1>
 
 <div>
-    <h4>HangHoa</h4>
-    <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.TenHh)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Tên hàng hóa</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.TenHh)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.TenAlias)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Tên Alias</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.TenAlias)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MoTaDonVi)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Mô tả đơn vị</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.MoTaDonVi)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DonGia)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Đơn giá</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.DonGia)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Hinh)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Hình ảnh</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Hinh)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NgaySx)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Ngày sản xuất</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.NgaySx)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.GiamGia)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Giảm giá</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.GiamGia)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.SoLanXem)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Số lần xem</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.SoLanXem)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MoTa)
-        </dt>
-        <dd class = "col-sm-10">
+        <dt class="col-sm-2">Mô tả</dt>
+        <dd class="col-sm-10">
             @Html.DisplayFor(model => model.MoTa)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MaLoaiNavigation)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.MaLoaiNavigation.MaLoai)
+        <dt class="col-sm-2">Loại hàng</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaLoaiNavigation.TenLoai)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MaNccNavigation)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.MaNccNavigation.MaNcc)
+        <dt class="col-sm-2">Nhà cung cấp</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaNccNavigation.TenCongTy)
         </dd>
     </dl>
 </div>
 <div>
-    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.MaHh">Edit</a> |
-    <a class="btn btn-danger" asp-action="Index">Back to List</a>
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model?.MaHh">Chỉnh sửa</a> |
+    <a class="btn btn-danger" asp-action="Index">Quay lại danh sách</a>
 </div>
+
 @section Styles {
     <link href="~/css/admin.css" rel="stylesheet" />
     <script src="~/js/scripts.js"></script>

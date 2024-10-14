@@ -12,83 +12,104 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NgayDat)
+            Ngày đặt
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.NgayDat)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NgayCan)
+            Ngày cần
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.NgayCan)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.NgayGiao)
+            Ngày giao
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.NgayGiao)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.HoTen)
+           Họ Tên
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.HoTen)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DiaChi)
+           Địa chỉ
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.DiaChi)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.DienThoai)
+            Điện thoại
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.DienThoai)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CachThanhToan)
+            Cách thanh toán
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.CachThanhToan)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CachVanChuyen)
+            Cách vận chuyển
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.CachVanChuyen)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.PhiVanChuyen)
+            Phí vận chuyển
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.PhiVanChuyen)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.GhiChu)
+            Ghi chú
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.GhiChu)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MaKhNavigation)
+            Mã khách hàng
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.MaKhNavigation.MaKh)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MaNvNavigation)
+            Nhân viên
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.MaNvNavigation.MaNv)
+            @Html.DisplayFor(model => model.MaNvNavigation.HoTen)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.MaTrangThaiNavigation)
+        <dt class="col-sm-2">
+            Trạng thái
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.MaTrangThaiNavigation.MaTrangThai)
+        <dd class="col-sm-10">
+            @switch (Model.MaTrangThaiNavigation.MaTrangThai)
+            {
+                case -1:
+                    <button class="btn btn-danger">Khách hàng đã hủy đơn</button>
+                    break;
+                case 0:
+                    <button class="btn btn-secondary">Mới đặt hàng</button>
+                    break;
+                case 1:
+                    <button class="btn btn-primary">Đã thanh toán</button>
+                    break;
+                case 2:
+                    <button class="btn btn-warning">Chờ giao hàng</button>
+                    break;
+                case 3:
+                    <button class="btn btn-success">Đã giao hàng</button>
+                    break;
+                default:
+                    <button class="btn btn-dark">Không xác định</button>
+                    break;
+            }
         </dd>
+
     </dl>
 </div>
 <div>

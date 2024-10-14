@@ -6,94 +6,88 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using duanwebsite.Data;
-using Microsoft.AspNetCore.Authorization;
 
 namespace duanwebsite.Controllers
 {
-    public class AdminController : Controller
+    public class AdminLoaiController : Controller
     {
         private readonly DungtmShopContext _context;
 
-        public AdminController(DungtmShopContext context)
+        public AdminLoaiController(DungtmShopContext context)
         {
             _context = context;
         }
 
-        // GET: Admin'
-        [Authorize(Roles = "Admin")]
-        public ActionResult AdminPage()
-        {
-            return View();
-        }
+        // GET: AdminLoai
         public async Task<IActionResult> Index()
         {
-            return View(await _context.KhachHangs.ToListAsync());
+            return View(await _context.Loais.ToListAsync());
         }
 
-        // GET: Admin/Details/5
-        public async Task<IActionResult> Details(string id)
+        // GET: AdminLoai/Details/5
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var khachHang = await _context.KhachHangs
-                .FirstOrDefaultAsync(m => m.MaKh == id);
-            if (khachHang == null)
+            var loai = await _context.Loais
+                .FirstOrDefaultAsync(m => m.MaLoai == id);
+            if (loai == null)
             {
                 return NotFound();
             }
 
-            return View(khachHang);
+            return View(loai);
         }
 
-        // GET: Admin/Create
+        // GET: AdminLoai/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Admin/Create
+        // POST: AdminLoai/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaKh,MatKhau,HoTen,GioiTinh,NgaySinh,DiaChi,DienThoai,Email,Hinh,HieuLuc,VaiTro,RandomKey")] KhachHang khachHang)
+        public async Task<IActionResult> Create([Bind("MaLoai,TenLoai,TenLoaiAlias,MoTa,Hinh")] Loai loai)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(khachHang);
+                _context.Add(loai);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(khachHang);
+            return View(loai);
         }
 
-        // GET: Admin/Edit/5
-        public async Task<IActionResult> Edit(string id)
+        // GET: AdminLoai/Edit/5
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var khachHang = await _context.KhachHangs.FindAsync(id);
-            if (khachHang == null)
+            var loai = await _context.Loais.FindAsync(id);
+            if (loai == null)
             {
                 return NotFound();
             }
-            return View(khachHang);
+            return View(loai);
         }
 
-        // POST: Admin/Edit/5
+        // POST: AdminLoai/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("MaKh,MatKhau,HoTen,GioiTinh,NgaySinh,DiaChi,DienThoai,Email,Hinh,HieuLuc,VaiTro,RandomKey")] KhachHang khachHang)
+        public async Task<IActionResult> Edit(int id, [Bind("MaLoai,TenLoai,TenLoaiAlias,MoTa,Hinh")] Loai loai)
         {
-            if (id != khachHang.MaKh)
+            if (id != loai.MaLoai)
             {
                 return NotFound();
             }
@@ -102,12 +96,12 @@ namespace duanwebsite.Controllers
             {
                 try
                 {
-                    _context.Update(khachHang);
+                    _context.Update(loai);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!KhachHangExists(khachHang.MaKh))
+                    if (!LoaiExists(loai.MaLoai))
                     {
                         return NotFound();
                     }
@@ -118,45 +112,45 @@ namespace duanwebsite.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(khachHang);
+            return View(loai);
         }
 
-        // GET: Admin/Delete/5
-        public async Task<IActionResult> Delete(string id)
+        // GET: AdminLoai/Delete/5
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var khachHang = await _context.KhachHangs
-                .FirstOrDefaultAsync(m => m.MaKh == id);
-            if (khachHang == null)
+            var loai = await _context.Loais
+                .FirstOrDefaultAsync(m => m.MaLoai == id);
+            if (loai == null)
             {
                 return NotFound();
             }
 
-            return View(khachHang);
+            return View(loai);
         }
 
-        // POST: Admin/Delete/5
+        // POST: AdminLoai/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var khachHang = await _context.KhachHangs.FindAsync(id);
-            if (khachHang != null)
+            var loai = await _context.Loais.FindAsync(id);
+            if (loai != null)
             {
-                _context.KhachHangs.Remove(khachHang);
+                _context.Loais.Remove(loai);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool KhachHangExists(string id)
+        private bool LoaiExists(int id)
         {
-            return _context.KhachHangs.Any(e => e.MaKh == id);
+            return _context.Loais.Any(e => e.MaLoai == id);
         }
     }
 }

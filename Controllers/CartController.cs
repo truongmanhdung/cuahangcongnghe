@@ -117,7 +117,8 @@ namespace duanwebsite.Controllers
 					DiaChi = model.DiaChi ?? khachHang.DiaChi,
 					DienThoai = model.DienThoai ?? khachHang.DienThoai,
 					NgayDat = DateTime.Now,
-					CachThanhToan = "COD",
+					NgayGiao = DateTime.Now,
+                    CachThanhToan = "COD",
 					CachVanChuyen = "GRAB",
 					MaTrangThai = 0,
 					GhiChu = model.GhiChu

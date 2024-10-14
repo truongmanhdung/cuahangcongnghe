@@ -47,7 +47,30 @@
                 <td>@Html.DisplayFor(modelItem => item.CachVanChuyen)</td>
                 <td>@Html.DisplayFor(modelItem => item.PhiVanChuyen)</td>
                 <td>@Html.DisplayFor(modelItem => item.MaKhNavigation.HoTen)</td>
-                <td>@Html.DisplayFor(modelItem => item.MaTrangThaiNavigation.TenTrangThai)</td>
+                <td>
+                    @switch (item.MaTrangThai)
+                    {
+                        case -1:
+                            <button class="btn btn-danger">Khách hàng đã hủy đơn</button>
+                            break;
+                        case 0:
+                            <button class="btn btn-secondary">Mới đặt hàng</button>
+                            break;
+                        case 1:
+                            <button class="btn btn-primary">Đã thanh toán</button>
+                            break;
+                        case 2:
+                            <button class="btn btn-warning">Chờ giao hàng</button>
+                            break;
+                        case 3:
+                            <button class="btn btn-success">Đã giao hàng</button>
+                            break;
+                        default:
+                            <button class="btn btn-dark">Không xác định</button>
+                            break;
+                    }
+                </td>
+
                 <td>
                     <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.MaHd">
                         <i class="fas fa-edit"></i> Sửa

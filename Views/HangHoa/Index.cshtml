@@ -19,4 +19,15 @@
 <!-- Single Page Header End -->
 
 @await Html.PartialAsync("ProductItem", Model)
+<div class="col-12">
+	<div class="pagination d-flex justify-content-center mt-5">
+		<a href="@Url.Action("Index", new { loai = ViewBag.Loai, page = (int)ViewBag.CurrentPage - 1 })" class="rounded @(ViewBag.CurrentPage == 1 ? "disabled" : "")">&laquo;</a>
 
+		@for (int i = 1; i <= (int)ViewBag.TotalPages; i++)
+		{
+			<a href="@Url.Action("Index", new { loai = ViewBag.Loai, page = i })" class="rounded @(ViewBag.CurrentPage == i ? "active" : "")">@i</a>
+		}
+
+		<a href="@Url.Action("Index", new { loai = ViewBag.Loai, page = (int)ViewBag.CurrentPage + 1 })" class="rounded @(ViewBag.CurrentPage == (int)ViewBag.TotalPages ? "disabled" : "")">&raquo;</a>
+	</div>
+</div>
